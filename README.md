@@ -65,4 +65,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Your Name - [sunilindoriacse@outlook.com](mailto:your-email@example.com)
 
-Project Link: [https://github.com/isunilindoria/Myntra-Clone.git](https://github.com/your-username/myntra-clone)
+Project Link: [https://github.com/isunilindoria/Myntra-Clone.git](https://github.com/your-username/myntra-clone.git)
